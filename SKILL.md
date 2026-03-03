@@ -1,5 +1,5 @@
 ---
-name: frappe-skill
+name: frappe
 description: Comprehensive expert guidance for the Frappe Framework and ERPNext ecosystem. Use when working on Frappe apps, ERPNext customizations, DocTypes, Bench commands, Frappe/ERPNext architecture, OR when generating KSA client ERP proposals and pricing estimates.
 ---
 
